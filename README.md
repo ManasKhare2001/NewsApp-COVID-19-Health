@@ -6,7 +6,7 @@ First Interface : Access to the wealth of COVID-19 knowledge resources.
 
 
 
-Second Interface : After Clicking to any news, Reverting user to the actual source where that, specific news are comming. 
+Second Interface : After Clicking to any news, Reverting user to the actual source where that, specific news are coming. 
 
 ![Screenshot (449)](https://user-images.githubusercontent.com/79192605/119716738-122f1200-be83-11eb-850a-7da980ee9f6b.png)
 
