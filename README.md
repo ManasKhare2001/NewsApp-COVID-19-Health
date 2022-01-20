@@ -1,4 +1,4 @@
-# NewsApp-COVID-19-Health
+# NewsApp
 • It delivers mobile access to a wealth of COVID-19 knowledge resources to enable them to expand their life-saving skills to battle COVID-19.
 
 • This app features trusted info from both the experts at the WHO and regional partners.
